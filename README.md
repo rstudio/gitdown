@@ -4,4 +4,4 @@ gitdown
 Under development
 -----------------
 
-Extension of `blogdown` to create webistes based on packages.
+Extension of `blogdown` to create Hugo websites for packages.
