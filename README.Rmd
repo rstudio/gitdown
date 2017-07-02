@@ -1,0 +1,9 @@
+---
+title: "gitdown"
+output: github_document
+---
+
+## Under development
+
+Extension of `blogdown` to create Hugo websites for packages.  
+
